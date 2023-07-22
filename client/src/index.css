@@ -1,4 +1,15 @@
-@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Pacifico&display=swap");
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+:root {
+  --backdrop:rgb(15, 15, 18);
+  --text: white;
+}
+
+html {
+  /* background-color:var(--backdrop); */
+  background-color: var(--backdrop);
+  color: var(--text);
+}

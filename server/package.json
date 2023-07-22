@@ -4,6 +4,6 @@
   "description": "",
   "main": "index.js",
   "type":"module",
-  "author": "",
-  "license": "ISC"
+  "author": "Sayantan",
+  "license": "MIT"
 }
